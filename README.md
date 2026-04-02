@@ -1,8 +1,8 @@
-Car Price Analysis Project
+# Car Price Analysis Project
 Objective
 The objective of this project is to analyze the factors affecting car prices and provide actionable business insights for pricing optimization.
 
-🛠 Tools Used
+#🛠 Tools Used
 Python
 Pandas
 Matplotlib
@@ -17,7 +17,7 @@ Improve fuel efficiency for budget segment
 📊 Outcome
 This project demonstrates data cleaning, EDA, and insight generation skills required for a Data Analyst role.
 
-About
+#About
 The objective of this project is to analyze the factors affecting car prices and provide actionable business insights for pricing optimization.
 
 Resources
