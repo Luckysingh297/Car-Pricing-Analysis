@@ -84,7 +84,3 @@ The analysis indicates that car prices are significantly influenced by engine si
 * Seaborn
 
 ---
-
-## 👤 Author
-
-Lucky Singh
