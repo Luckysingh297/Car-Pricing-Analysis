@@ -1,28 +1,28 @@
 # 🚗 Car Price Analysis (Data Analytics Project)
 
-## 🔥 Objective
+## 🔍 Objective
 
-Is project ka goal hai car dataset ko analyze karna aur identify karna ki kaunse factors car price ko sabse zyada affect karte hain.
+The objective of this project is to analyze a car dataset and identify the key factors that influence car pricing. The analysis aims to derive actionable insights that can support pricing strategies and market segmentation.
 
 ---
 
 ## 📁 Dataset
 
-* Car dataset with multiple features like:
+The dataset contains multiple features related to cars, including:
 
-  * Engine size
-  * Horsepower
-  * Fuel type
-  * Body style
-  * Price
+* Engine Size
+* Horsepower
+* Fuel Type
+* Body Style
+* Price (Target Variable)
 
 ---
 
 ## 🧹 Data Cleaning
 
-* Missing values handled
-* '?' replaced with NaN
-* Data types corrected
+* Handled missing values appropriately
+* Replaced invalid entries ('?') with NaN
+* Corrected data types for accurate analysis
 
 ---
 
@@ -30,61 +30,61 @@ Is project ka goal hai car dataset ko analyze karna aur identify karna ki kaunse
 
 ### 1. Price Distribution
 
-* Most cars fall under mid-price range
-* Few high-price outliers present
+* Most vehicles fall within the mid-price range
+* A small number of high-price outliers are present
 
 ---
 
 ### 2. Engine Size vs Price
 
-👉 Strong positive relationship
-➡ Bigger engine = higher price
+* Strong positive correlation observed
+* Vehicles with larger engine sizes tend to have higher prices
 
 ---
 
 ### 3. Horsepower Analysis
 
-👉 Cars with higher horsepower tend to cost more
+* Higher horsepower is associated with higher vehicle prices
 
 ---
 
 ### 4. Fuel Type Impact
 
-👉 Diesel cars generally have higher price compared to gas cars
+* Diesel vehicles generally have higher average prices compared to gasoline vehicles
 
 ---
 
 ### 5. Body Style Insights
 
-👉 Sedans and SUVs dominate mid to high price range
+* Sedans and SUVs dominate the mid to high price segments
 
 ---
 
 ## 💡 Key Business Insights
 
-* Engine size is the most important factor in pricing
-* High horsepower vehicles target premium segment
-* Budget segment cars have lower engine size & horsepower
-* Companies can adjust pricing strategy based on these features
+* Engine size is a primary driver of vehicle pricing
+* High-performance vehicles (high horsepower) are positioned in the premium segment
+* Budget-friendly vehicles typically have smaller engines and lower horsepower
+* Feature-based segmentation can help optimize pricing and product positioning strategies
 
 ---
 
 ## 📈 Conclusion
 
-* Car pricing is heavily influenced by engine size and horsepower
-* Feature-based segmentation can improve pricing strategies
+The analysis indicates that car prices are significantly influenced by engine size and horsepower. These factors can be effectively used for market segmentation and pricing optimization.
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 * Python
 * Pandas
+* NumPy
 * Matplotlib
 * Seaborn
 
 ---
 
-## 📬 Author
+## 👤 Author
 
 Lucky Singh
